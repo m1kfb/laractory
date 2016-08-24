@@ -1,0 +1,12 @@
+{
+  "name": "m1kfb/laractory",
+  "description": "This is a Directory plugin for Lavavel",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mike Brown",
+      "email": "mike@2880.co.uk"
+    }
+  ]
+}
